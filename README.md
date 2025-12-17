@@ -1,4 +1,7 @@
-## Hi there 👋
+## Bonjour, bonsoir 👋
+
+Étudiante en mathématiques et en informatique, j'aime résoudre des problèmes par des soltuions pratiques comme théoriques. 
+
 
 <!--
 **Leanne-Roche/Leanne-Roche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
